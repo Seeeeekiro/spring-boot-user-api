@@ -2,7 +2,7 @@
 
 面向 Spring Boot 入门学习的纯后端项目，用注册、登录与查询三个接口串联 Controller、Service、Mapper 和 PostgreSQL。适合展示 REST 接口设计、分层开发和基础数据库操作。
 
-> 仓库地址保留为 `Seeeeekiro/1`；这是学习实践项目，功能范围以源码为准。
+> 仓库地址：`Seeeeekiro/spring-boot-user-api`；这是学习实践项目，功能范围以源码为准。
 
 ## 已实现功能
 
@@ -35,7 +35,7 @@ src/main/java/com/stu/helloserver/
 ### 1. 获取项目
 
 ```bash
-git clone https://github.com/Seeeeekiro/1.git
+git clone https://github.com/Seeeeekiro/spring-boot-user-api.git
 cd 1
 ```
 
